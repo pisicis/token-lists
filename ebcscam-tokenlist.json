@@ -1,1 +1,20 @@
+{
+  "name": "EBCSCAM Token List",
+  "timestamp": "2025-02-08T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x1e3c049CfA68501b06d76Fd7E02e6bD71525A567",
+      "name": "EBCSCAM",
+      "symbol": "EBCSCAM",
+      "decimals": 18,
+      "logoURI": "https://purple-managerial-mandrill-15.mypinata.cloud/ipfs/bafkreibhihn6z4iqmnh2sw36f6fxkh3rksbvkqdqgnujn6qcdutwjpa46i"
+    }
+  ]
+}
 
